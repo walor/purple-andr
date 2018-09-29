@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello :) !</string>
+    <string name="app_name">Restaurant</string>
+    <string name="text1">Nice to meet you!</string>
+    <string name="text2">Enjoy!</string>
+    <string name="text3">Find Us</string>
+    <string name="text4">Info</string>
+	<string name="info">About Us</string>
+</resources>
